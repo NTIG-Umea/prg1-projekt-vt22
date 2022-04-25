@@ -11,4 +11,4 @@ Bestäm sedan vad du ska göra, anteckna.
 | 19    |        |               |           |               |
 | 20    |        |               |           |               |
 | 21    |        |               |           |               |
-| 22    |        |               | Inlämning |               |
+| 22    | Inlämning |            | Dokumentation |           |
