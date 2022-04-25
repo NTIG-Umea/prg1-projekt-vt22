@@ -12,10 +12,21 @@ Resultatet ska sedan sparas i en ny fil.
   * Manual, https://docs.python.org/3/library/csv.html
   * Skapa data med https://www.mockaroo.com/ 
 * Läsa från cmdline med argparse 
+  * https://docs.python.org/3/howto/argparse.html 
   * https://docs.python.org/3/library/argparse.html 
   * Ange vilken fil som ska läsas
   * Ange vilken fil som ska skrivas
   * Ange regler för användarnamn och lösenord
+
+### Skapa usernames
+
+För att skapa användarnamn behöver du arbeta med index och skivor i strängar.
+Du ska kunna plocka ut ett par bokstäver ur förnamn och efternamn samt konvertera dem till små bokstäver. Se kap 5.
+
+### Generera lösenord
+
+Här behöver du skapa en metod för att generera ett lösenord.
+Att använda random är en god start och du behöver använda dig av både bokstäver, siffror och specialtecken (@#?+-*)
 
 ### Extra
 
