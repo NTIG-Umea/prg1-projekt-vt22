@@ -12,7 +12,7 @@ Jag kommer försöka prata med er varje lektion om detta.
 
 ## Projektet
 
-Jag vill klara kursen, [Minräknaren](miniraknaren.md). Här finns det såklart utrymme för självständighet och högre betyg, men grunden är ett E projekt.
+Jag vill klara kursen, [Minräknaren](miniraknare.md). Här finns det såklart utrymme för självständighet och högre betyg, men grunden är ett E projekt.
 
 Programmering är kul och jag vill ha en utmaning/kan hantera att planera och ta ansvar för att det blir gjort. [csv, user fixaren](usermin.md).
 
