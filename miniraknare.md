@@ -10,21 +10,22 @@ Det ska finnas en commit när du börjar. En när du har kodat meny loopen, en n
 Programmet ska ha en meny, som ska visas tills användaren väljer att avsluta programmet.
 Programmet ska kunna räkna med flera räknesätt och användaren ska kunna mata in talen som det räknas med.
 
+```python
 Välkommen till miniräknaren.
 [1] Räkna med +
 [2] Räkna med -
 [3] Räkna med *
 [4] Valfritt arbete, om du vill
 [5] Avsluta
-
+```
 Här behöver du en loop som fortsätter köra programmet så länge valet inte är 5. Resten av menyn styrs med en if elif else sats.
 
 När ett val har gjorts så får du utforma koden kring det och hur programmet ska se ut som du vill. Det kan exempelvis vara.
-
+```python
 Skriv ett tal:
 Skriv ett andra tal:
 Summan av tal1 + tal2 är summa.
-
+```
 Skriv några kommentarer i din kod och förklara den så att jag kan se hur du tänkt.
 
 ## Hjälp
