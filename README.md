@@ -24,5 +24,8 @@ Jag har en fantastisk ide som jag vill göra. Visa, förklara och beskriv den f�
 
 ## Redovisning
 
-Programmet med tillhörande dokumentation ska lämnas in onsdag v.22.
+Programmet ska lämnas in måndag v.22.
+
+Dokumentationen ska skrivas onsdag v.22.
+
 Vi kör redovisning (visa upp ditt program) onsdag v.23.
