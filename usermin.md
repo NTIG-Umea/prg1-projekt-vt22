@@ -16,6 +16,9 @@ Resultatet ska sedan sparas i en ny fil.
   * Ange vilken fil som ska läsas
   * Ange vilken fil som ska skrivas
   * Ange regler för användarnamn och lösenord
+
+### Extra
+
 * Utöka progammets gränssnitt
   * Låt programmet köras genom en webbsida med Flask
   * Testa att göra ett grafiskt användargränssnitt med TK, https://realpython.com/python-gui-tkinter/
@@ -50,15 +53,6 @@ Din kod ska använda sig av någon form av
 * datastrukturer(lista), kap 6
 * gränssnitt
 * felhantering, kap 10
-
-#### CSV exempel
-```py
-import csv
-with open('users.csv', newline='') as csvfile:
-  reader = csv.reader(csvfile, delimiter=',', quotechar='|')
-  for row in reader:
-    print(', '.join(row))
-```
 
 #### Textfil
 
