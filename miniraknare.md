@@ -1,4 +1,4 @@
-#Miniräknaren
+# Miniräknaren
 
 Din uppgift är att koda ett program för att visa det du har lärt dig hittills. Ditt program ska använda numeriska uttryck, selektion och iteration. Det ska alltså upprepa, välja och räkna… En miniräknare.
 
